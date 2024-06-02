@@ -9,7 +9,7 @@ import requests
 
 #Conexion con nuestro BOT
 
-TOKEN = '7256278424:AAG4GD3Ja2ENfTLJ0Zj5F7rD4-CMiqLPoCs'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'
